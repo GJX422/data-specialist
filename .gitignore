@@ -1,0 +1,24 @@
+# 配置文件
+config/config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# 日志
+logs/
+*.log
+
+# 临时文件
+*.tmp
+*.bak
+
+# IDE
+.vscode/
+.idea/
